@@ -1,3 +1,6 @@
 [submodule "E-learning-System"]
 	path = E-learning-System
 	url = https://github.com/Nibalab/E-learning-System.git
+[submodule "e-Learning-Admin"]
+	path = e-Learning-Admin
+	url = https://github.com/Nibalab/e-Learning-Admin.git
