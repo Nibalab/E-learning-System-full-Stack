@@ -4,3 +4,6 @@
 [submodule "e-Learning-Admin"]
 	path = e-Learning-Admin
 	url = https://github.com/Nibalab/e-Learning-Admin.git
+[submodule "E-learning-System-users"]
+	path = E-learning-System-users
+	url = https://github.com/Nibalab/E-learning-System-users.git
